@@ -1,7 +1,7 @@
-- 👋 Hi, I’m Mihirsingh Bais
-- 👀 I’m interested in Fullstack Development and Data Analytics
-- 💻 I’m currently working on DSA, Angular, Node.js, REST APIs, Java, NoSQL 
-- 😃 I’m looking for an opportunity to start my career as a Associate Software Developer (Fresher) 
+- 👋 Hi, I’m Mihirsingh Bais.
+- 👀 I’m interested in Fullstack Development and Data Analytics.
+- 💻 I’m currently working on DSA, Angular, Node.js, REST APIs, Java, NoSQL.
+- 😃 I’m looking for an opportunity to start my career as a Associate Software Developer (Fresher).
 - ➡️ How to reach me: mihirbais16@gmail.com , cseiia60@rgcer.edu.in
 
 <!---
