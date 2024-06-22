@@ -7,6 +7,8 @@
 
 <p align="left"> <a href="https://twitter.com/mihirsi09512170" target="blank"><img src="https://img.shields.io/twitter/follow/mihirsi09512170?logo=twitter&style=for-the-badge" alt="mihirsi09512170" /></a> </p>
 
+<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/74038190/212749695-a6817c5a-a794-462b-afca-1b5ce7dd5e63.gif">
+
 - 🌱 I’m currently learning **DSA, Angular, Node.js, REST APIs, Java, Springboot, and MySQL.**
 
 - 📫 How to reach me **mihirsinghbais10@gmail.com**
